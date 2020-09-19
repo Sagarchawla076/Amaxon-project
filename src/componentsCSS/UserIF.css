@@ -1,0 +1,30 @@
+
+.userbox{
+  display: flex;
+  justify-content: center;
+color: #fff;
+align-items: center;
+}
+.userIf span{
+  cursor: pointer;
+}
+.userIf{
+display: flex;
+flex-direction: column;
+margin: 10px;
+}
+.first{
+font-weight: 50;
+
+}
+.second{
+font-weight: bold;
+}
+.basketIcon{
+  padding: 5px;
+display: flex;
+align-items: center;
+}
+.basketIcon span{
+  padding: 5px;
+}

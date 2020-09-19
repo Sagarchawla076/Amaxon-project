@@ -1,0 +1,8 @@
+.DynamicProduct{
+  background-color:#E2E5DE;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  object-fit: contain;
+max-width: 1500px;
+}

@@ -1,0 +1,16 @@
+*{
+  margin:0;
+}
+#navbar{
+  background-color: #232F3E;
+  height:60px;
+  display: flex;
+  align-items: center;
+  position:fixed;
+  width: 100%;
+  z-index: 10;
+}
+.navLogo{
+  width: 100px;
+  margin: 19px 10px 8px;
+}

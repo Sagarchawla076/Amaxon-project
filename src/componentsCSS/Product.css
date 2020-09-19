@@ -1,0 +1,33 @@
+.addToBasket{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.addToBasket button{
+
+  margin: 10px;
+  margin-left: 80px;
+  background-color: #f0c14b;
+  border: 1px solid;
+  border-color: #a88734 #9c7e31 #846a29;
+
+}
+.productImage{
+height: 200px;
+padding-left: 80px;
+}
+.productContainer{
+padding: 20px 80px;
+padding-left: 0;
+  background-color: white;
+  margin: 10px 5px;
+  z-index: 1;
+}
+.productContainer .productTitle{
+  max-width: 210px;
+}
+
+.productRating{
+  display: flex;
+}

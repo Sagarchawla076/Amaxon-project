@@ -1,0 +1,15 @@
+.homeImageContainer{
+display: flex;
+align-items: center;
+
+
+}
+
+.homeImage{
+  margin: 60px auto;
+  width: 100%;
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+  margin-bottom: -150px;
+  position: relative;
+  z-index:-1;
+}
